@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+D:\Android\QuizApp\.metadata\.plugins\org.eclipse.jdt.core
+3295822892.index
+1284074322.index
+557627600.index
+3154916158.index
+618769372.index
